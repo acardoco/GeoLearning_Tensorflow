@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>Madrid_norte_2_40.5459539_-3.6148872.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\Madrid_norte_2_40.5459539_-3.6148872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>471</ymin>
+			<xmax>634</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>Santander _43.4580609_-3.8555427.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\Santander _43.4580609_-3.8555427.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotonda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>415</ymin>
+			<xmax>194</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>313</ymin>
+			<xmax>110</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

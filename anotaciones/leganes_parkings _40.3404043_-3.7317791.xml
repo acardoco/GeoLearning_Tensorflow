@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>leganes_parkings _40.3404043_-3.7317791.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\leganes_parkings _40.3404043_-3.7317791.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotonda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>121</ymin>
+			<xmax>623</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>154</ymin>
+			<xmax>110</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

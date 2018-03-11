@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>leganes_parkings _40.3297243_-3.7352891.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\leganes_parkings _40.3297243_-3.7352891.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piscina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>319</ymin>
+			<xmax>578</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

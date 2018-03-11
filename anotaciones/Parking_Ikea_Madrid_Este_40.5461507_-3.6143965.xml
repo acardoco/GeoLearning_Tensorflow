@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>Parking_Ikea_Madrid_Este_40.5461507_-3.6143965.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\Parking_Ikea_Madrid_Este_40.5461507_-3.6143965.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>513</ymin>
+			<xmax>636</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>leganes_derecha_abajo _40.3152574_-3.7344782.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\leganes_derecha_abajo _40.3152574_-3.7344782.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>374</ymin>
+			<xmax>479</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>398</ymin>
+			<xmax>578</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

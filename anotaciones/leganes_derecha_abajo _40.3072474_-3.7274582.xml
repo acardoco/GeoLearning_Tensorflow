@@ -1,0 +1,38 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>leganes_derecha_abajo _40.3072474_-3.7274582.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\leganes_derecha_abajo _40.3072474_-3.7274582.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piscina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>439</ymin>
+			<xmax>559</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>piscina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>486</ymin>
+			<xmax>101</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

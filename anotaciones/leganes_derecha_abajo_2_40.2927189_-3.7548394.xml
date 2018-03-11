@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded</folder>
+	<filename>leganes_derecha_abajo_2_40.2927189_-3.7548394.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded\leganes_derecha_abajo_2_40.2927189_-3.7548394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rotonda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>131</ymin>
+			<xmax>521</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

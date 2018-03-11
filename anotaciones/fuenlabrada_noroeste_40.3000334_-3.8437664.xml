@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded_v2</folder>
+	<filename>fuenlabrada_noroeste_40.3000334_-3.8437664.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded_v2\fuenlabrada_noroeste_40.3000334_-3.8437664.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piscina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>441</ymin>
+			<xmax>584</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

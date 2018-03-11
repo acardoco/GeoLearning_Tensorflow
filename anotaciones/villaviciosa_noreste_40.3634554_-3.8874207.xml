@@ -1,0 +1,26 @@
+<annotation>
+	<folder>downloaded_v2</folder>
+	<filename>villaviciosa_noreste_40.3634554_-3.8874207.jpg</filename>
+	<path>C:\Users\Public\Pictures\downloaded_v2\villaviciosa_noreste_40.3634554_-3.8874207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piscina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>327</ymin>
+			<xmax>459</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
