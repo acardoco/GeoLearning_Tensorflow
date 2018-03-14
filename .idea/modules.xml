@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../GeoLearning/.idea/GeoLearning.iml" filepath="$PROJECT_DIR$/../GeoLearning/.idea/GeoLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GeoLearning_Tensorflow.iml" filepath="$PROJECT_DIR$/.idea/GeoLearning_Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../raccoon_dataset-master/.idea/raccoon_dataset-master.iml" filepath="$PROJECT_DIR$/../raccoon_dataset-master/.idea/raccoon_dataset-master.iml" />
     </modules>
   </component>
 </project>

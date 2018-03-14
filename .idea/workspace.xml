@@ -2,492 +2,271 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bffdf4b0-cc05-43a5-98f6-5376a667e2db" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5406139_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5406139_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5406139_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5406139_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5406139_-3.6254172.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5432839_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5432839_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5432839_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5432839_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5432839_-3.6254172.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5459539_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5459539_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5459539_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5459539_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5486239_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5512939_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5512939_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5512939_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5512939_-3.6254172.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5539639_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5539639_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5539639_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5566339_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5566339_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5566339_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5566339_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5593039_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5593039_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5593039_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5593039_-3.6219072.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5593039_-3.6254172.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5619739_-3.6078672.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5619739_-3.6113772.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5619739_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5619739_-3.6183972.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5646439_-3.6078672.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5646439_-3.6148872.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_2_40.5646439_-3.6254172.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5449732_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5449732_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5449732_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5449732_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5449732_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5476432_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5476432_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5476432_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5476432_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5476432_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5503132_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5503132_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5503132_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5503132_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5503132_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5529832_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5529832_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5529832_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5529832_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5529832_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5556532_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5556532_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5556532_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5556532_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5556532_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5583232_-3.6484352.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5583232_-3.6519452.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5583232_-3.6554552.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5583232_-3.6589652.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Madrid_norte_40.5583232_-3.6624752.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5301307_-3.6108865.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5301307_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5301307_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5328007_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5354707_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5354707_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5381407_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5381407_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5408107_-3.6108865.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5408107_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5408107_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5434807_-3.6108865.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5434807_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5434807_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5461507_-3.6108865.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5461507_-3.6143965.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Parking_Ikea_Madrid_Este_40.5461507_-3.6179065.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4527209_-3.8555427.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4553909_-3.8485227.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4553909_-3.8520327.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4553909_-3.8555427.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4580609_-3.8485227.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4580609_-3.8520327.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4580609_-3.8555427.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/Santander _43.4580609_-3.8590527.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3311946_-3.8314931.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3311946_-3.8350031.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3311946_-3.8385131.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3311946_-3.8420231.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3311946_-3.8455331.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3338646_-3.8314931.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3338646_-3.8385131.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3338646_-3.8420231.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3365346_-3.8314931.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3365346_-3.8350031.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3365346_-3.8385131.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3392046_-3.8350031.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3392046_-3.8385131.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3392046_-3.8420231.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3392046_-3.8455331.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3418746_-3.8314931.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3418746_-3.8350031.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/alcorcon_sur_40.3418746_-3.8455331.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.2946934_-3.8367464.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.2973634_-3.8367464.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.2973634_-3.8402564.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.2973634_-3.8437664.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3000334_-3.8367464.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3000334_-3.8402564.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3000334_-3.8437664.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3027034_-3.8367464.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3027034_-3.8402564.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3027034_-3.8437664.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3053734_-3.8367464.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuenlabrada_noroeste_40.3053734_-3.8402564.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.477143_-3.7240679.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.477143_-3.7275779.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.477143_-3.7310879.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.477143_-3.7345979.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.477143_-3.7381079.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.479813_-3.7240679.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.479813_-3.7275779.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.479813_-3.7310879.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.479813_-3.7345979.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/fuentelareyna_40.479813_-3.7381079.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3072474_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3072474_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3125874_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3152574_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3152574_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3152574_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3179274_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3179274_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3205974_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3205974_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3205974_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3232674_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3232674_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3232674_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3259374_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3259374_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3286074_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3286074_-3.7309682.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3286074_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3312774_-3.7274582.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo _40.3312774_-3.7344782.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2927189_-3.7443094.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2927189_-3.7548394.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2927189_-3.7583494.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2953889_-3.7443094.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2953889_-3.7513294.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2953889_-3.7548394.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2980589_-3.7443094.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2980589_-3.7478194.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.2980589_-3.7583494.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.3007289_-3.7513294.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.3007289_-3.7548394.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.3033989_-3.7478194.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_derecha_abajo_2_40.3033989_-3.7513294.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3327944_-3.7764316.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3327944_-3.7799416.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3354644_-3.7729216.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3354644_-3.7764316.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3354644_-3.7799416.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3354644_-3.7834516.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3381344_-3.7729216.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3381344_-3.7799416.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3381344_-3.7834516.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3381344_-3.7869616.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3408044_-3.7729216.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3408044_-3.7764316.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3408044_-3.7799416.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3408044_-3.7869616.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3434744_-3.7729216.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3434744_-3.7764316.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3434744_-3.7799416.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3434744_-3.7834516.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_izq1_40.3434744_-3.7869616.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3297243_-3.7282691.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3297243_-3.7317791.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3297243_-3.7352891.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3297243_-3.7387991.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3323943_-3.7247591.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3323943_-3.7282691.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3323943_-3.7317791.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3350643_-3.7212491.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3350643_-3.7387991.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3377343_-3.7212491.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3377343_-3.7282691.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3377343_-3.7317791.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3377343_-3.7352891.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3377343_-3.7387991.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3404043_-3.7247591.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3404043_-3.7282691.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3404043_-3.7317791.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3404043_-3.7352891.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/leganes_parkings _40.3404043_-3.7387991.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4593743_-3.7950603.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4593743_-3.7985703.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4593743_-3.8020803.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4593743_-3.8055903.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4593743_-3.8091003.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4620443_-3.7950603.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4620443_-3.8020803.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4620443_-3.8055903.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/parking_Madrid_40.4620443_-3.8091003.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4425237_-3.7840413.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4425237_-3.7875513.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4425237_-3.7910613.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4451937_-3.7840413.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4451937_-3.7875513.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4451937_-3.7910613.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4478637_-3.7840413.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4478637_-3.7875513.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/pozuelo_sureste_40.4478637_-3.7910613.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3607854_-3.8768907.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3607854_-3.8804007.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3607854_-3.8839107.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3607854_-3.8874207.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3634554_-3.8768907.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3634554_-3.8804007.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3634554_-3.8839107.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3634554_-3.8874207.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3661254_-3.8768907.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3661254_-3.8804007.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3661254_-3.8839107.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3661254_-3.8874207.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3687954_-3.8768907.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3687954_-3.8804007.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/villaviciosa_noreste_40.3687954_-3.8839107.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/zapateira_43.3165805_-8.4088471.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/anotaciones/zapateira_43.3165805_-8.4123571.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5406139_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5406139_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5406139_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5406139_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5406139_-3.6254172.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5432839_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5432839_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5432839_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5432839_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5432839_-3.6254172.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5459539_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5459539_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5459539_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5459539_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5486239_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5512939_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5512939_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5512939_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5512939_-3.6254172.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5539639_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5539639_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5539639_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5566339_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5566339_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5566339_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5566339_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5593039_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5593039_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5593039_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5593039_-3.6219072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5593039_-3.6254172.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5619739_-3.6078672.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5619739_-3.6113772.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5619739_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5619739_-3.6183972.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5646439_-3.6078672.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5646439_-3.6148872.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_2_40.5646439_-3.6254172.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5449732_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5449732_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5449732_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5449732_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5449732_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5476432_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5476432_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5476432_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5476432_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5476432_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5503132_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5503132_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5503132_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5503132_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5503132_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5529832_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5529832_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5529832_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5529832_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5529832_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5556532_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5556532_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5556532_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5556532_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5556532_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5583232_-3.6484352.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5583232_-3.6519452.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5583232_-3.6554552.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5583232_-3.6589652.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Madrid_norte_40.5583232_-3.6624752.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5301307_-3.6108865.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5301307_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5301307_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5328007_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5354707_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5354707_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5381407_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5381407_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5408107_-3.6108865.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5408107_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5408107_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5434807_-3.6108865.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5434807_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5434807_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5461507_-3.6108865.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5461507_-3.6143965.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Parking_Ikea_Madrid_Este_40.5461507_-3.6179065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4527209_-3.8555427.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4553909_-3.8485227.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4553909_-3.8520327.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4553909_-3.8555427.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4580609_-3.8485227.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4580609_-3.8520327.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4580609_-3.8555427.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/Santander _43.4580609_-3.8590527.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3072474_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3072474_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3125874_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3152574_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3152574_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3152574_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3179274_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3179274_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3205974_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3205974_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3205974_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3232674_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3232674_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3232674_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3259374_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3259374_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3286074_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3286074_-3.7309682.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3286074_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3312774_-3.7274582.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo _40.3312774_-3.7344782.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2927189_-3.7443094.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2927189_-3.7548394.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2927189_-3.7583494.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2953889_-3.7443094.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2953889_-3.7513294.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2953889_-3.7548394.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2980589_-3.7443094.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2980589_-3.7478194.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.2980589_-3.7583494.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.3007289_-3.7513294.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.3007289_-3.7548394.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.3033989_-3.7478194.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_derecha_abajo_2_40.3033989_-3.7513294.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3327944_-3.7764316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3327944_-3.7799416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3354644_-3.7729216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3354644_-3.7764316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3354644_-3.7799416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3354644_-3.7834516.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3381344_-3.7729216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3381344_-3.7799416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3381344_-3.7834516.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3381344_-3.7869616.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3408044_-3.7729216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3408044_-3.7764316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3408044_-3.7799416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3408044_-3.7869616.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3434744_-3.7729216.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3434744_-3.7764316.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3434744_-3.7799416.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3434744_-3.7834516.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_izq1_40.3434744_-3.7869616.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3297243_-3.7282691.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3297243_-3.7317791.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3297243_-3.7352891.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3297243_-3.7387991.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3323943_-3.7247591.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3323943_-3.7282691.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3323943_-3.7317791.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3350643_-3.7212491.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3350643_-3.7387991.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3377343_-3.7212491.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3377343_-3.7282691.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3377343_-3.7317791.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3377343_-3.7352891.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3377343_-3.7387991.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7212491.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7247591.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7282691.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7317791.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7352891.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/leganes_parkings _40.3404043_-3.7387991.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4593743_-3.7950603.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4593743_-3.7985703.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4593743_-3.8020803.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4593743_-3.8055903.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4593743_-3.8091003.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4620443_-3.7950603.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4620443_-3.8020803.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4620443_-3.8055903.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v1/parking_Madrid_40.4620443_-3.8091003.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3311946_-3.8314931.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3311946_-3.8350031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3311946_-3.8385131.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3311946_-3.8420231.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3311946_-3.8455331.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3338646_-3.8314931.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3338646_-3.8385131.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3338646_-3.8420231.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3365346_-3.8314931.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3365346_-3.8350031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3365346_-3.8385131.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3392046_-3.8350031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3392046_-3.8385131.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3392046_-3.8420231.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3392046_-3.8455331.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3418746_-3.8314931.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3418746_-3.8350031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/alcorcon_sur_40.3418746_-3.8455331.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.2946934_-3.8367464.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.2973634_-3.8367464.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.2973634_-3.8402564.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.2973634_-3.8437664.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3000334_-3.8367464.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3000334_-3.8402564.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3000334_-3.8437664.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3027034_-3.8367464.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3027034_-3.8402564.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3027034_-3.8437664.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3053734_-3.8367464.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuenlabrada_noroeste_40.3053734_-3.8402564.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.477143_-3.7240679.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.477143_-3.7275779.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.477143_-3.7310879.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.477143_-3.7345979.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.477143_-3.7381079.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.479813_-3.7240679.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.479813_-3.7275779.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.479813_-3.7310879.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.479813_-3.7345979.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/fuentelareyna_40.479813_-3.7381079.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4425237_-3.7840413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4425237_-3.7875513.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4425237_-3.7910613.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4451937_-3.7840413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4451937_-3.7875513.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4451937_-3.7910613.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4478637_-3.7840413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4478637_-3.7875513.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/pozuelo_sureste_40.4478637_-3.7910613.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3607854_-3.8768907.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3607854_-3.8804007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3607854_-3.8839107.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3607854_-3.8874207.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3634554_-3.8768907.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3634554_-3.8804007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3634554_-3.8839107.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3634554_-3.8874207.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3661254_-3.8768907.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3661254_-3.8804007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3661254_-3.8839107.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3661254_-3.8874207.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3687954_-3.8768907.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3687954_-3.8804007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/villaviciosa_noreste_40.3687954_-3.8839107.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/zapateira_43.3165805_-8.4088471.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/downloaded_v2/zapateira_43.3165805_-8.4123571.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/dividir_conjuntos-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/prueba_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/ssd_mobilenet_v1_coco_2017_11_17.tar.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/test_images/image1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PRUEBAS/test_images/image2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/object-detection.pbtxt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/test.record" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/train.record" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dividir_conjuntos.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generate_TFRecord.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/geolearning_labels.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5406139_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5406139_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5406139_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5406139_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5406139_-3-6254172.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5432839_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5432839_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5432839_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5432839_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5432839_-3-6254172.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5459539_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5459539_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5459539_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5459539_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5486239_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5512939_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5512939_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5512939_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5512939_-3-6254172.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5539639_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5539639_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5539639_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5566339_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5566339_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5566339_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5566339_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5593039_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5593039_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5593039_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5593039_-3-6219072.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5593039_-3-6254172.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5619739_-3-6078672.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5619739_-3-6113772.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5619739_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5619739_-3-6183972.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5646439_-3-6078672.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5646439_-3-6148872.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_2_40-5646439_-3-6254172.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5449732_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5449732_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5449732_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5449732_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5449732_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5476432_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5476432_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5476432_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5476432_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5476432_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5503132_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5503132_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5503132_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5503132_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5503132_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5529832_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5529832_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5529832_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5529832_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5529832_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5556532_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5556532_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5556532_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5556532_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5556532_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5583232_-3-6484352.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5583232_-3-6519452.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5583232_-3-6554552.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5583232_-3-6589652.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Madrid_norte_40-5583232_-3-6624752.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5301307_-3-6108865.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5301307_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5301307_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5328007_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5354707_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5354707_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5381407_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5381407_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5408107_-3-6108865.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5408107_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5408107_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5434807_-3-6108865.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5434807_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5434807_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5461507_-3-6108865.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5461507_-3-6143965.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Parking_Ikea_Madrid_Este_40-5461507_-3-6179065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4527209_-3-8555427.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4553909_-3-8485227.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4553909_-3-8520327.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4553909_-3-8555427.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4580609_-3-8485227.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4580609_-3-8520327.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4580609_-3-8555427.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/Santander_43-4580609_-3-8590527.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3311946_-3-8314931.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3311946_-3-8350031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3311946_-3-8385131.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3311946_-3-8420231.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3311946_-3-8455331.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3338646_-3-8314931.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3338646_-3-8385131.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3338646_-3-8420231.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3365346_-3-8314931.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3365346_-3-8350031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3365346_-3-8385131.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3392046_-3-8350031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3392046_-3-8385131.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3392046_-3-8420231.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3392046_-3-8455331.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3418746_-3-8314931.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3418746_-3-8350031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/alcorcon_sur_40-3418746_-3-8455331.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-2946934_-3-8367464.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-2973634_-3-8367464.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-2973634_-3-8402564.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-2973634_-3-8437664.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3000334_-3-8367464.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3000334_-3-8402564.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3000334_-3-8437664.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3027034_-3-8367464.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3027034_-3-8402564.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3027034_-3-8437664.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3053734_-3-8367464.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuenlabrada_noroeste_40-3053734_-3-8402564.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-477143_-3-7240679.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-477143_-3-7275779.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-477143_-3-7310879.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-477143_-3-7345979.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-477143_-3-7381079.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-479813_-3-7240679.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-479813_-3-7275779.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-479813_-3-7310879.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-479813_-3-7345979.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fuentelareyna_40-479813_-3-7381079.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2927189_-3-7443094.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2927189_-3-7548394.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2927189_-3-7583494.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2953889_-3-7443094.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2953889_-3-7513294.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2953889_-3-7548394.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2980589_-3-7443094.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2980589_-3-7478194.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-2980589_-3-7583494.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-3007289_-3-7513294.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-3007289_-3-7548394.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-3033989_-3-7478194.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_2_40-3033989_-3-7513294.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3072474_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3072474_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3125874_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3152574_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3152574_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3152574_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3179274_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3179274_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3205974_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3205974_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3205974_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3232674_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3232674_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3232674_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3259374_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3259374_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3286074_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3286074_-3-7309682.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3286074_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3312774_-3-7274582.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_derecha_abajo_40-3312774_-3-7344782.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3327944_-3-7764316.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3327944_-3-7799416.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3354644_-3-7729216.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3354644_-3-7764316.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3354644_-3-7799416.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3354644_-3-7834516.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3381344_-3-7729216.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3381344_-3-7799416.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3381344_-3-7834516.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3381344_-3-7869616.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3408044_-3-7729216.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3408044_-3-7764316.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3408044_-3-7799416.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3408044_-3-7869616.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3434744_-3-7729216.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3434744_-3-7764316.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3434744_-3-7799416.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3434744_-3-7834516.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_izq1_40-3434744_-3-7869616.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3297243_-3-7282691.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3297243_-3-7317791.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3297243_-3-7352891.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3297243_-3-7387991.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3323943_-3-7247591.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3323943_-3-7282691.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3323943_-3-7317791.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3350643_-3-7212491.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3350643_-3-7387991.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3377343_-3-7212491.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3377343_-3-7282691.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3377343_-3-7317791.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3377343_-3-7352891.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3377343_-3-7387991.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7212491.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7247591.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7282691.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7317791.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7352891.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/leganes_parkings_40-3404043_-3-7387991.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4593743_-3-7950603.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4593743_-3-7985703.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4593743_-3-8020803.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4593743_-3-8055903.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4593743_-3-8091003.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4620443_-3-7950603.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4620443_-3-8020803.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4620443_-3-8055903.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/parking_Madrid_40-4620443_-3-8091003.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4425237_-3-7840413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4425237_-3-7875513.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4425237_-3-7910613.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4451937_-3-7840413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4451937_-3-7875513.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4451937_-3-7910613.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4478637_-3-7840413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4478637_-3-7875513.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pozuelo_sureste_40-4478637_-3-7910613.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3607854_-3-8768907.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3607854_-3-8804007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3607854_-3-8839107.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3607854_-3-8874207.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3634554_-3-8768907.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3634554_-3-8804007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3634554_-3-8839107.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3634554_-3-8874207.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3661254_-3-8768907.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3661254_-3-8804007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3661254_-3-8839107.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3661254_-3-8874207.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3687954_-3-8768907.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3687954_-3-8804007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/villaviciosa_noreste_40-3687954_-3-8839107.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/zapateira_43-3165805_-8-4088471.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/zapateira_43-3165805_-8-4123571.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_pets.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_labels.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_labels.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils.py" />
+      <change beforePath="$PROJECT_DIR$/../GeoLearning/.idea/GeoLearning.iml" afterPath="$PROJECT_DIR$/../GeoLearning/.idea/GeoLearning.iml" />
       <change beforePath="$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py" afterPath="$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/GeoLearning_Tensorflow.iml" afterPath="$PROJECT_DIR$/.idea/GeoLearning_Tensorflow.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/creador_data.py" afterPath="$PROJECT_DIR$/creador_data.py" />
-      <change beforePath="$PROJECT_DIR$/windows_v1.6.0/data/predefined_classes.txt" afterPath="$PROJECT_DIR$/windows_v1.6.0/data/predefined_classes.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -497,30 +276,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="creador_data.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/creador_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="e#517#546#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selective_search_cv2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vis_util</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -528,8 +296,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py" />
         <option value="$PROJECT_DIR$/creador_data.py" />
+        <option value="$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/generate_TFRecord.py" />
+        <option value="$PROJECT_DIR$/prueba_example.py" />
+        <option value="$PROJECT_DIR$/PRUEBAS/prueba_example.py" />
+        <option value="$PROJECT_DIR$/ssd_mobilenet_v1_pets.config" />
+        <option value="$PROJECT_DIR$/../raccoon_dataset-master/generate_tfrecord.py" />
+        <option value="$PROJECT_DIR$/../raccoon_dataset-master/training/ssd_mobilenet_v1_pets.config" />
       </list>
     </option>
   </component>
@@ -539,7 +314,9 @@
     <option name="width" value="1400" />
     <option name="height" value="992" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -555,6 +332,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -562,21 +340,16 @@
               <item name="GeoLearning_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeoLearning_Tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GeoLearning_Tensorflow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GeoLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GeoLearning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../raccoon_dataset-master" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -590,8 +363,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selective_search_cv2">
-    <configuration name="creador_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.prueba_example (1)">
+    <configuration name="generate_TFRecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -603,7 +376,43 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="GeoLearning_Tensorflow" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creador_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_TFRecord.py" />
+      <option name="PARAMETERS" value="--csv_input=train_labels.csv  --output_path=train.record" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="prueba_example (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRUEBAS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GeoLearning_Tensorflow" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRUEBAS/prueba_example.py" />
+      <option name="PARAMETERS" value="-W ignore" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="prueba_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GeoLearning_Tensorflow" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -627,14 +436,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.creador_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.selective_search_cv2" />
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GeoLearning_Tensorflow" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.selective_search_cv2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.utils" />
+      <item index="2" class="java.lang.String" itemvalue="Python.generate_TFRecord" />
+      <item index="3" class="java.lang.String" itemvalue="Python.prueba_example" />
+      <item index="4" class="java.lang.String" itemvalue="Python.prueba_example (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.selective_search_cv2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.creador_data" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.prueba_example (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.prueba_example" />
+        <item index="2" class="java.lang.String" itemvalue="Python.selective_search_cv2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.generate_TFRecord" />
+        <item index="4" class="java.lang.String" itemvalue="Python.utils" />
       </list>
     </recent_temporary>
   </component>
@@ -652,6 +485,14 @@
       <option name="presentableId" value="Default" />
       <updated>1520533332604</updated>
     </task>
+    <task id="LOCAL-00001" summary="anotaciones creadas">
+      <created>1520791308007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520791308007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -660,13 +501,13 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -679,20 +520,203 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="anotaciones creadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="anotaciones creadas" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/creador_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#517#546#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="94" column="25" lean-forward="false" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="107" column="213" lean-forward="false" selection-start-line="107" selection-start-column="145" selection-end-line="107" selection-end-column="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="107" column="213" lean-forward="false" selection-start-line="107" selection-start-column="145" selection-end-line="107" selection-end-column="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="107" column="213" lean-forward="false" selection-start-line="107" selection-start-column="145" selection-end-line="107" selection-end-column="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="107" column="82" lean-forward="false" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="42" selection-end-column="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -700,9 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#517#546#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,19 +731,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#517#546#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/googlemaps/client.py">
+    <entry file="file://$PROJECT_DIR$/creador_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="355" column="0" lean-forward="false" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/googlemaps/client.py" />
     <entry file="file://C:/ProgramData/Anaconda3/envs/tensorflow-gpu/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -748,27 +767,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/framework/errors_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="467" column="0" lean-forward="false" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../GeoLearning/selective_search_cv2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="189">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba_example.py" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/object_detection-0.1-py3.5.egg/object_detection/utils/visualization_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GeoLearning/keras_multiclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2883">
+          <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssd_mobilenet_v1_pets.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="167" column="1" lean-forward="true" selection-start-line="167" selection-start-column="1" selection-end-line="167" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PRUEBAS/prueba_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="104" column="56" lean-forward="false" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_TFRecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="109" column="78" lean-forward="true" selection-start-line="109" selection-start-column="75" selection-end-line="109" selection-end-column="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/creador_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="0">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#517#546#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../raccoon_dataset-master/environment.yml" />
+    <entry file="file://$PROJECT_DIR$/../raccoon_dataset-master/generate_tfrecord.py" />
+    <entry file="file://$PROJECT_DIR$/../raccoon_dataset-master/training/ssd_mobilenet_v1_pets.config" />
   </component>
 </project>
